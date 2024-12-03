@@ -1,0 +1,16 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+h1, h2 {
+    color: #495057;
+}
+
+.card {
+    max-width: 500px;
+    margin: auto;
+}
+
+
