@@ -27,8 +27,3 @@ The project uses:
   - `css/styles.css` - Custom styles
 - **JavaScript File:**
   - `js/scripts.js` - Logic for managing students
-
-## How to Use
-1. Clone the repository:
-   ```bash
-   [git clone https://github.com/your-username/student-management-system-web.git](https://github.com/25harshdeep17/student-management-system-web)
